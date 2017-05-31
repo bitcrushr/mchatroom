@@ -1,0 +1,25 @@
+main: com.mchat.Main
+name: MChat
+version: .5
+author: by73
+description: IRC Channel Functionality for Minecraft
+commands:
+  clist:
+    description: Lists available chat channels
+    usage: /clist
+  cjoin:
+    description: Joins an existing channel
+    usage: /cjoin [channel]
+  cdel:
+    description: Deletes a channel
+    usage: /cdel [channel]
+  cmake:
+    description: Creates a channel
+    usage: /cmake [channel]
+  chan:
+    description: Gets your current channel
+    usage: /chan
+  cwho:
+    description: Lists members of a given channel
+    usage: /cwho [channel]
+  
