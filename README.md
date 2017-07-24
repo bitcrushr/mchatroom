@@ -4,7 +4,9 @@ A lightweight plugin for chat channel functionality in Minecraft
 This plugin requires that you build against the Spigot API.
 
 ---
-![example_1](https://i.imgur.com/uvaqEve.gifv)
+
+[A usage example](https://i.imgur.com/uvaqEve.gifv)
+
 ---
 
 ## Commands:
